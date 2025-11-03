@@ -5,7 +5,7 @@ import Header from '@/components/Header';
 // import Hero from '@/components/Hero';            // <- aqui
 import About from '@/components/About';
 import Gallery from '@/components/Gallery';
-import Contact from '@/components/Contact';
+// import Contact from '@/components/Contact';
 import WhatsAppFloat from '@/components/WhatsAppFloat';
 import HeroShowcase from '@/components/HeroShowcase';
 
@@ -32,7 +32,7 @@ export default function HomePage() {
       />                        {/* <- usa o Hero novo */}
       <About />
       <Gallery />
-      <Contact />
+      {/* <Contact /> */}
       <WhatsAppFloat phone="5535991877780" message="Olá, Bruna! Vim pelo portfólio." />
     </main>
   );
