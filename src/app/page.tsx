@@ -22,9 +22,9 @@ export default function HomePage() {
       <Header />
       <HeroShowcase
         images={[
-          "/images/25.jpg",
-          "/images/06.jpg",
-          "/images/04.jpg",
+          "/images/normal01.jpg",
+          "/images/normal05.jpg",
+          "/images/black06.jpg",
         ]}
         motto="Transformamos espaços, conectamos emoções"
         autoPlay={true}
